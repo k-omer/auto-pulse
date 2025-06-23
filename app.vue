@@ -16,7 +16,7 @@
         <div class="logo-section mb-8">
           <div class="d-flex align-center mb-2">
             <div class="logo-icon-wrapper mr-3">
-              <v-icon icon="mdi-car-sports" size="32" color="primary" class="logo-icon"></v-icon>
+              <v-icon icon="mdi-car-sports" size="32" color="white" class="logo-icon"></v-icon>
             </div>
             <div>
               <div class="text-h6 font-weight-bold text-primary">AutoScout</div>
